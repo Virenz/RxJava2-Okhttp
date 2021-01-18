@@ -1,0 +1,49 @@
+@charset"UTF-8";
+
+@font-face {
+
+font-family:"opensans";
+
+src: url("fonts/opensans.ttf");
+
+}
+
+img,object,video,embed {
+
+max-width:100% !important;
+
+width:auto;
+
+height:auto;
+
+vertical-align:middle;
+
+border:0;
+
+}
+
+html, body {
+
+background-color:#ffffcc;
+
+background:url("file:///android_asset/noval_bg.jpeg");
+
+text-align:justify;
+
+text-justify:distribute-all-lines;
+
+font-size:20px  !important;
+
+line-height:1.5;
+
+color: #4a4a4a;
+
+}
+
+a:link{
+
+text-decoration: none;
+
+color:#2B93F6
+
+}
